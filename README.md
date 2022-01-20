@@ -13,7 +13,7 @@
 
 <p align="left"><a href="https://github.com/TeamEviral/FIREXUSERBOT/network/members"><img src="https://img.shields.io/github/forks/TeamEviral/FIREXUSERBOT?label=Forks&logoColor=purple&style=social"></a><p align="left"><a href="https://github.com/TeamEviral/FIREXUSERBOT/stargazers"><img src="https://img.shields.io/github/stars/TeamEviral/FIREXUSERBOT?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/TeamEviral/FIREXUSERBOT"><img src="https://img.shields.io/github/last-commit/TeamEviral/FIREXUSERBOT?logoColor=brown&style=plastic"></a>
    
-## Star The [Repo](https://github.com/TeamEviral/FIREXUSERBOT/stargazers) Now.
+## Star The [Repo](https://github.com/kanesh546/FIREXUSERBOT/stargazers) Now.
    - Don't forget to star this repo. It motivates us to contribute more for you.
    
 # [Fire-X](https://t.me/FireXUb) userbot
@@ -28,7 +28,7 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 
 ## Heroku Salesforce Error Solution
 - Make a github Account.
-- Fork the [Repo](https://github.com/Teameviral/FIREX) First.
+- Fork the [Repo](https://github.com/kanesh546/FIREX) First.
 - Then go README.md and replace `Teameviral` to your forked github username.
    
 ### Get API_ID AND API_HASH 
